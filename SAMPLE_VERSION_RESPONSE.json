@@ -1,0 +1,13 @@
+{
+  "ok": true,
+  "product": "VISIONX_ERP_DESKTOP",
+  "channel": "standard",
+  "edition": "DESKTOP_LOCAL",
+  "latest_version": "v1.0.17",
+  "version_label": "VisionX ERP v1.0.17",
+  "github_release_tag": "v1.0.17",
+  "download_url": "https://github.com/cssumesh/visionx-erp-desktop-releases/releases/download/v1.0.17/VisionX_ERP_v1_0_17_Update_Setup.exe",
+  "sha256": "<GitHub SHA256 of exact uploaded asset>",
+  "force_update": false,
+  "release_notes": "VisionX ERP v1.0.17 update"
+}
